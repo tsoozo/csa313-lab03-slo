@@ -1,0 +1,6 @@
+СЕРВЕР АСАВ: 21:47:52
+API: http://localhost:3000
+СЕРВЕР УНАВ (SIGKILL, crash): 21:48:32
+-bash: line 174: 20507 Killed                     node server.js
+СЕРВЕР ДАХИН АСАВ: 21:48:42
+API: http://localhost:3000
